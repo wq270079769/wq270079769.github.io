@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /favicon.ico
+
+Sitemap: /http://wq270079769.github.io/Sitemap.xml
